@@ -1,0 +1,15 @@
+/* styles.css */
+h1 { 
+    color: purple;
+    background-color: transparent;
+    font-size: 32px;
+    text-align: center;
+
+}
+* {
+    color: blue;
+    background-color: yellow;
+}
+.header, h2{
+    color: purple;
+}
