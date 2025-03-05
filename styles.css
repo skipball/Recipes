@@ -1,15 +1,19 @@
 /* styles.css */
 h1 { 
-    color: purple;
+    color: rgb(9, 9, 87);
     background-color: transparent;
     font-size: 32px;
     text-align: center;
-
+    font-family: arial, sans-serif;
 }
-* {
+* p{
     color: blue;
-    background-color: yellow;
 }
 .header, h2{
     color: purple;
+}
+button{
+    color: white;
+    background-color: green;
+    font-size: 22px;
 }
